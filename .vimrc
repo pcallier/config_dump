@@ -1,4 +1,4 @@
-set shiftwidth=4 expandtab autoindent softtabstop=4
+set shiftwidth=4 expandtab autoindent softtabstop=4 tabstop=4
 
 execute pathogen#infect()
 
